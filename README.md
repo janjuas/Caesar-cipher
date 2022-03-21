@@ -17,7 +17,9 @@ Program GUI
 
 ### Encrypting a message
 [![Image from Gyazo](https://i.gyazo.com/7aa5e8a446b79c213a7149259cc5cca7.png)](https://gyazo.com/7aa5e8a446b79c213a7149259cc5cca7)
+
 Encrypting the message "the weather is great today" by a shift factor of 2
 ### Decrypting a message
 [![Image from Gyazo](https://i.gyazo.com/864b5f32100bfdb5e76cb2edea3ad83b.png)](https://gyazo.com/864b5f32100bfdb5e76cb2edea3ad83b)
+
 Decrypting the encrypted message "rfcyuczrfcpygqyepczryrmbzw" by a shift factor of 2 to get the origanl message.
